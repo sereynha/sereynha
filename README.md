@@ -1,4 +1,4 @@
-## I'm SereyPanha, a studnet of Computer Science 👨‍💻  
+## I'm SereyPanha, a student of Computer Science 👨‍💻  
   
 
 <a href="https://github.com/nhaserey" target="_blank">
