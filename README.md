@@ -102,7 +102,7 @@ I am a passionate M.Tech CS student at Royal University of Phnom Penh, driven by
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=sereynha)  
   
 
 <br/>  
